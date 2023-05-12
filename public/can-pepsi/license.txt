@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pepsi Can
+* source:	https://sketchfab.com/3d-models/pepsi-can-4ac179c3447f4636a273d8574a61a1c5
+* author:	JohnnyRouddro (https://sketchfab.com/johnnyrouddro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pepsi Can" (https://sketchfab.com/3d-models/pepsi-can-4ac179c3447f4636a273d8574a61a1c5) by JohnnyRouddro (https://sketchfab.com/johnnyrouddro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
